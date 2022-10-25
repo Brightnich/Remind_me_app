@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Remind_me_app/static/css/main.731cf4f3.chunk.css",
+    "main.js": "/Remind_me_app/static/js/main.9efc8ee4.chunk.js",
+    "main.js.map": "/Remind_me_app/static/js/main.9efc8ee4.chunk.js.map",
+    "runtime-main.js": "/Remind_me_app/static/js/runtime-main.7d26613c.js",
+    "runtime-main.js.map": "/Remind_me_app/static/js/runtime-main.7d26613c.js.map",
+    "static/js/2.580c5ed0.chunk.js": "/Remind_me_app/static/js/2.580c5ed0.chunk.js",
+    "static/js/2.580c5ed0.chunk.js.map": "/Remind_me_app/static/js/2.580c5ed0.chunk.js.map",
+    "index.html": "/Remind_me_app/index.html",
+    "static/css/main.731cf4f3.chunk.css.map": "/Remind_me_app/static/css/main.731cf4f3.chunk.css.map",
+    "static/js/2.580c5ed0.chunk.js.LICENSE.txt": "/Remind_me_app/static/js/2.580c5ed0.chunk.js.LICENSE.txt",
+    "static/media/Twirling.6e7df7f6.bin": "/Remind_me_app/static/media/Twirling.6e7df7f6.bin"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d26613c.js",
+    "static/js/2.580c5ed0.chunk.js",
+    "static/css/main.731cf4f3.chunk.css",
+    "static/js/main.9efc8ee4.chunk.js"
+  ]
+}
